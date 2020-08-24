@@ -1,4 +1,4 @@
-module github.com/migueloli/dio-expert-session-finance.git
+module github.com/migueloli/dio-expert-session-finance
 
 go 1.15
 

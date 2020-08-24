@@ -6,9 +6,8 @@ import (
 	"io/ioutil"
 	"net/http"
 
-	"github.com/migueloli/dio-expert-session-finance.git/util"
-
-	"github.com/migueloli/dio-expert-session-finance.git/model/transaction"
+	"github.com/migueloli/dio-expert-session-finance/model/transaction"
+	"github.com/migueloli/dio-expert-session-finance/util"
 )
 
 // GetTransactions is the endpoint to process a GET request and return a list of transactions.

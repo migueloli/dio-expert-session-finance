@@ -3,8 +3,8 @@ package http
 import (
 	"net/http"
 
-	"github.com/migueloli/dio-expert-session-finance.git/adapter/http/actuator"
-	"github.com/migueloli/dio-expert-session-finance.git/adapter/http/transaction"
+	"github.com/migueloli/dio-expert-session-finance/adapter/http/actuator"
+	"github.com/migueloli/dio-expert-session-finance/adapter/http/transaction"
 	"github.com/prometheus/client_golang/prometheus/promhttp"
 )
 
